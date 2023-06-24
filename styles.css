@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+.sniger{
+    width:100px ;
+    height:100px ;
+}
+header{
+    display: flex;
+    background-color: gray;
+}
+header{
+    background-color: whitesmoke;
+}
+.sneger{
+    padding-left: 40px;
+}
+h2{
+text-align: center;
+
+}
+.susyniger{
+    padding-left: 215px;
+    width: 200px;
+    height: 200px;
+}
+h3{
+text-align: center;
+
+}
+nav a{
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: whitesmoke;
+}
+nav a{
+  background-color: black;  
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+header article{
+    background-color: red;
+    width: 50%;
+    text-align: center;
+}
+body {
+    background-color: whitesmoke;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.one{
+    margin: 20px;
+    text-align: center;
+}
+footer{
+    background-color: red;
+    height: 167px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+nav a:hover{
+    border: 3px solid whitesmoke;
+}
